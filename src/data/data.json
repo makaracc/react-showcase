@@ -1,0 +1,16 @@
+{
+  "cert": [
+    {
+      "title": "Bachelor of IT",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Deakin_University_Logo_2017.svg/240px-Deakin_University_Logo_2017.svg.png"
+    }
+  ],
+  "projects": [
+    {
+      "name": "C# AStar",
+      "about": "Pathfinding algorithm written in C# using Splashkit library.",
+      "image": "https://github.com/makaracc/CSharpPathfinding/raw/main/Resources/app%20_running.png",
+      "link": "https://github.com/makaracc/CSharpPathfinding"
+    }
+  ]
+}
